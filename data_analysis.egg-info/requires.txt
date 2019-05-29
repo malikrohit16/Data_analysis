@@ -1,0 +1,9 @@
+PyQt5
+pandas
+sqlalchemy
+nltk
+jupyter
+python-twitter
+
+[dev]
+flake8
