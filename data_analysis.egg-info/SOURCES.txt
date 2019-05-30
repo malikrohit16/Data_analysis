@@ -1,5 +1,8 @@
 README.md
 setup.py
+data-analysis/__init__.py
+data-analysis/database.py
+data-analysis/twitter_data_access.py
 data_analysis.egg-info/PKG-INFO
 data_analysis.egg-info/SOURCES.txt
 data_analysis.egg-info/dependency_links.txt
